@@ -1,0 +1,6 @@
+C:\Users\Utente\Documents\Visual Studio 2015\Projects\Scuola\CalcolatriceGiusta\CalcolatriceGiusta\bin\Debug\CalcolatriceGiusta.exe.config
+C:\Users\Utente\Documents\Visual Studio 2015\Projects\Scuola\CalcolatriceGiusta\CalcolatriceGiusta\bin\Debug\CalcolatriceGiusta.exe
+C:\Users\Utente\Documents\Visual Studio 2015\Projects\Scuola\CalcolatriceGiusta\CalcolatriceGiusta\bin\Debug\CalcolatriceGiusta.pdb
+C:\Users\Utente\Documents\Visual Studio 2015\Projects\Scuola\CalcolatriceGiusta\CalcolatriceGiusta\obj\Debug\CalcolatriceGiusta.csprojResolveAssemblyReference.cache
+C:\Users\Utente\Documents\Visual Studio 2015\Projects\Scuola\CalcolatriceGiusta\CalcolatriceGiusta\obj\Debug\CalcolatriceGiusta.exe
+C:\Users\Utente\Documents\Visual Studio 2015\Projects\Scuola\CalcolatriceGiusta\CalcolatriceGiusta\obj\Debug\CalcolatriceGiusta.pdb

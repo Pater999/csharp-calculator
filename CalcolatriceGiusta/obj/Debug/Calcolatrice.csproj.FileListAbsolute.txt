@@ -1,0 +1,7 @@
+E:\Documenti\Scuola\Informatica\Esercizi Informatica 2016\Scuola\CalcolatriceGiusta\CalcolatriceGiusta\bin\Debug\CalcolatriceGiusta.exe.config
+E:\Documenti\Scuola\Informatica\Esercizi Informatica 2016\Scuola\CalcolatriceGiusta\CalcolatriceGiusta\bin\Debug\CalcolatriceGiusta.exe
+E:\Documenti\Scuola\Informatica\Esercizi Informatica 2016\Scuola\CalcolatriceGiusta\CalcolatriceGiusta\bin\Debug\CalcolatriceGiusta.pdb
+E:\Documenti\Scuola\Informatica\Esercizi Informatica 2016\Scuola\CalcolatriceGiusta\CalcolatriceGiusta\obj\Debug\Calcolatrice.csprojAssemblyReference.cache
+E:\Documenti\Scuola\Informatica\Esercizi Informatica 2016\Scuola\CalcolatriceGiusta\CalcolatriceGiusta\obj\Debug\Calcolatrice.csproj.CoreCompileInputs.cache
+E:\Documenti\Scuola\Informatica\Esercizi Informatica 2016\Scuola\CalcolatriceGiusta\CalcolatriceGiusta\obj\Debug\CalcolatriceGiusta.exe
+E:\Documenti\Scuola\Informatica\Esercizi Informatica 2016\Scuola\CalcolatriceGiusta\CalcolatriceGiusta\obj\Debug\CalcolatriceGiusta.pdb
